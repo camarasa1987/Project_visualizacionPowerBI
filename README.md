@@ -16,19 +16,19 @@ En las 4 primeras paginas podemos observar cual es el mejor jugador por pais de 
 
 Argentina: Lionel Messi
 
-![arg]()
+![arg](https://github.com/camarasa1987/Project_visualizacionPowerBI/blob/main/Imagenes/arg.png)
 
 España: Sergio Ramos
 
-![ESP]()
+![ESP](https://github.com/camarasa1987/Project_visualizacionPowerBI/blob/main/Imagenes/ESP.png)
 
 Portugal: Cristiano Ronaldo (en este caso, aunque Cristiano es el mejor en la sumatoria total de habilidades , por los parámetros  seleccionados en mi análisis, se puede evidenciar que en muchos aspectos Pepe tiene mejores destrezas que Cristiano). 
 
-![Port]()
+![Port](https://github.com/camarasa1987/Project_visualizacionPowerBI/blob/main/Imagenes/Port.png)
 
 Brazil: Sin lugar a dudas, Neymar
 
-![BRZ]()
+![BRZ](https://github.com/camarasa1987/Project_visualizacionPowerBI/blob/main/Imagenes/brz.png)
 
 
 ## Además, podemos ver 2 pestañas interactivas (Dashboards)📋
@@ -39,11 +39,11 @@ a)Cual es su primera posición en la que juega en su club.
 b)Una comparativa entre que tan veloz es cada jugador y cuanta aceleración puede desarrollar.
 c)Rating final que arroja la combinatoria de las destrezas.
 
-![D1]()
+![D1](https://github.com/camarasa1987/Project_visualizacionPowerBI/blob/main/Imagenes/D1.png)
 
 Dashboard 2:
 Aquí deberás seleccionar que posición te interesa visualizar y obtendrás:
 a)Un eje que analiza la relación que hay en cada posición por que tan agresivos son y que tanto control del balón poseen,
 b)Un porcentaje de las barridas que ejecutan los jugadores que se desempeñan en cada una de las posiciones.
 
-![D2]()
+![D2](https://github.com/camarasa1987/Project_visualizacionPowerBI/blob/main/Imagenes/D2.png)
